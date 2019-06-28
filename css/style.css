@@ -1,0 +1,26 @@
+#blue:hover {
+    background-color: #2E6CEF;
+}
+
+#yellow:hover {
+    background-color: #D9F85E;
+}
+
+.nav-link {
+    font-size: 1.2em;
+    margin-left: 108px;
+    color: red !important;
+}
+
+.nav-link:hover {
+    color: white !important;
+
+}
+
+#task {
+    margin-top: 60px;
+}
+
+body {
+    background-color: #EEF3FF;
+}
